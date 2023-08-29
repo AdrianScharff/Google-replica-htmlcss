@@ -94,8 +94,8 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 30px;
-    margin-top: 195px;
+    gap: 28px;
+    margin-top: 199px;
 }
 
 #logo {
@@ -143,13 +143,13 @@ main {
 }
 
 .input-icon.micro {
-    right: 60px;
-    width: 15px;
+    right: 63px;
+    width: 14px;
 }
 
 .input-icon.img-search {
     right: 20px;
-    width: 17px;
+    width: 18.5px;
 }
 
 #btn-container {
@@ -161,7 +161,7 @@ main {
     width: 150px;
     height: 35px;
     border: none;
-    background-color: rgb(247, 247, 247);
+    background-color: rgb(249, 249, 249);
     font-size: 14px;
     color: rgb(75, 75, 75);
     cursor: pointer;
